@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-03T07:19:28 CDT" name="Default suite" finished-at="2024-07-03T07:19:56 CDT" duration-ms="28826">
+    <groups>
+    </groups>
+    <test started-at="2024-07-03T07:19:28 CDT" name="Default test" finished-at="2024-07-03T07:19:56 CDT" duration-ms="28826">
+      <class name="Tests.PracticaM5b">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Tests.PracticaM5b@3023df74]" started-at="2024-07-03T07:18:58 CDT" name="setUp" finished-at="2024-07-03T07:19:28 CDT" duration-ms="29673" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="login(java.lang.String,java.lang.String)[pri:0, instance:Tests.PracticaM5b@3023df74]" started-at="2024-07-03T07:19:30 CDT" name="login" data-provider="Datos Login Excel" finished-at="2024-07-03T07:19:39 CDT" duration-ms="8711" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[correo01@mailinator.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[aba3453]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="login(java.lang.String,java.lang.String)[pri:0, instance:Tests.PracticaM5b@3023df74]" started-at="2024-07-03T07:19:39 CDT" name="login" data-provider="Datos Login Excel" finished-at="2024-07-03T07:19:42 CDT" duration-ms="3241" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[correo02@mailinator.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ana7382]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="login(java.lang.String,java.lang.String)[pri:0, instance:Tests.PracticaM5b@3023df74]" started-at="2024-07-03T07:19:42 CDT" name="login" data-provider="Datos Login Excel" finished-at="2024-07-03T07:19:49 CDT" duration-ms="6850" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[correo03@mailinator.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[aca9292]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="login(java.lang.String,java.lang.String)[pri:0, instance:Tests.PracticaM5b@3023df74]" started-at="2024-07-03T07:19:49 CDT" name="login" data-provider="Datos Login Excel" finished-at="2024-07-03T07:19:53 CDT" duration-ms="4280" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[correo04@mailinator.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ala9382]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="login(java.lang.String,java.lang.String)[pri:0, instance:Tests.PracticaM5b@3023df74]" started-at="2024-07-03T07:19:53 CDT" name="login" data-provider="Datos Login Excel" finished-at="2024-07-03T07:19:56 CDT" duration-ms="2869" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[correo05@mailinator.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[aoa3432]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Tests.PracticaM5b@3023df74]" started-at="2024-07-03T07:19:57 CDT" name="tearDown" finished-at="2024-07-03T07:19:59 CDT" duration-ms="2028" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Tests.PracticaM5b -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
